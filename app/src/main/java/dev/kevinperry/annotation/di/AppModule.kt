@@ -22,10 +22,8 @@ object AppModule {
     @Provides
     fun provideDatabase(
         app: Application,
-        callback: NoteDatabase.Callback
     ) = Room.databaseBuilder(app, NoteDatabase::class.java, DATABASE_NAME)
         .fallbackToDestructiveMigration()
-        .addCallback(callback)
         .build()
 
     @Provides
