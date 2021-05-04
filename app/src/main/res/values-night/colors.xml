@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFBB86FC</color>
+    <color name="colorPrimaryVariant">#FF3700B3</color>
+    <color name="colorOnPrimary">#FF000000</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF03DAC5</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="colorListBackground">#FF000000</color>
+    <color name="colorEditBackground">#FF000000</color>
+    <color name="colorListItemBackground">#FF000000</color>
+    <color name="colorHeadingText">#FFFFFFFF</color>
+    <color name="colorPreviewText">#FFCCCCCC</color>
+    <color name="colorEditText">#FFE6E6E6</color>
+</resources>

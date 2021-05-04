@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Annotation</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_title">Note Title</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_title">Sort By Title</string>
+    <string name="sort_by_newest">Sort By Newest</string>
+    <string name="sort_by_oldest">Sort By Oldest</string>
+    <string name="saved">Saved</string>
+    <string name="saving">Saving</string>
+</resources>
